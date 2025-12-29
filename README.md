@@ -481,7 +481,7 @@ Após isso utilizei o Burp suite e realizei alguns testes com SQL injection, mas
 Após isso parti para o esgotamento de recursos da API, já que identifiquei no site que uma api pública era utilizada.
 
 Código usado para criação de CPF'S aleatórios:
-
+```
 def gera_cpf():
     import random
     n = [random.randrange(10) for i in range(9)]
@@ -496,8 +496,9 @@ def gera_cpf():
     if d2 >= 10: d2 = 0
     n.append(d2)
     return "".join(map(str, n))
-    #Gera 100 CPFs válidos para teste
-        for _ in range(100):
-        print(gera_cpf())
 
+#Gera 100 CPFs válidos para teste
+    for _ in range(100):
+    print(gera_cpf())
+```
 
