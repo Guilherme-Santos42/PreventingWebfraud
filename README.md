@@ -14,7 +14,11 @@ Ao acessar o site básico (sem o restante dos caracteres(https://megadavirada-of
 <br>
 
 # Primeiro passo: Reportar a informação ao google:
-em https://safebrowsing.google.com/safebrowsing/report_phish/?authuser=1: <br>
+Através do site: https://safebrowsing.google.com/safebrowsing/report_phish/?authuser=1: <br>
+Informar ao Google Safe Browsing é uma das ações mais eficazes porque ela ataca a visibilidade do golpe em larga escala, com isso nós contribuimos para possíveis bloqueios em: 
+Nível de Navegador,
+Derrubada do Tráfego Pago e
+Impacto na Indexação e Reputação.
 <img width="1417" height="760" alt="image" src="https://github.com/user-attachments/assets/987b5d48-58d4-408b-8b5f-d5dd04564e93" />
 
 # Segundo passo: Buscar informações no whois:
