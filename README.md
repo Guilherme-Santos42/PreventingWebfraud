@@ -1,7 +1,7 @@
 # PreventingWebfraud
 An event that required investigation!
 
-Comportamento observado: O site copiava o site de bolão da caixa, copiando principalmente o formulário inicial, solicitando CPF; após solicitar o CPF ele confirmava o nome da pessoa e após isso ela já entrava direto na parte de seleção do bolão e posteriormente para a parte de pagamento.
+Comportamento observado: O site copiava o site de bolão da caixa, copiando principalmente o formulário inicial, solicitando CPF; após solicitar o CPF ele confirmava o nome da pessoa e após isso ela já entrava direto na parte de seleção do bolão e posteriormente para a parte de pagamento. Este site foi descoberto através de anúncios realizados por plataformas como facebook/instagram que por diversas vezes não realizam a verificação da natureza do anúncio em questão.
 
 Identifiquei um site tentando se passar por um site de sorteios da caixa (Phishing) (site do governo):
 ```
