@@ -69,6 +69,7 @@ O header Alt-Svc: h3=":443" mostra que ele suporta HTTP/3 (QUIC). Para estudos a
 
 
 REQUEST EM QUESTÃO:
+```
 HTTP/2 200 OK
 
 Content-Type: text/html
@@ -461,7 +462,7 @@ Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=259
 </body>
 
 </html>
-
+```
 
 Após isso fui buscar mais informações do site, realizei alguns testes de PING com HPING e SlowHTTPTest e o site caiu temporariamente, retornando posteriormente! Entendi que possui tecnologias para que continue funcionando mesmo sob pressão. 
 
