@@ -13,7 +13,7 @@ Ao acessar o site básico (sem o restante dos caracteres(https://megadavirada-of
 <img width="1417" height="760" alt="image" src="https://github.com/user-attachments/assets/987b5d48-58d4-408b-8b5f-d5dd04564e93" />
 
 # Segundo passo: Buscar informações no whois:
-<img width="737" height="836" alt="Screenshot 2025-12-29 011936" src="https://github.com/user-attachments/assets/9893ab21-5c26-4317-934e-b377a9fd3bd6" />
+<img width="737" height="836" alt="Screenshot 2025-12-29 011936" src="https://github.com/user-attachments/assets/9893ab21-5c26-4317-934e-b377a9fd3bd6" /><br>
 Parece que o site foi criado recentemente, dia 25 de dezembro, justamente onde a mega da virada é mais procurada!
 <br>
 Usei o burp suite para verificação dos requests do site e encontrei a informação que precisava, a hospedagem ocorria no hostiger!
