@@ -495,9 +495,8 @@ def gera_cpf():
     if d2 >= 10: d2 = 0
     n.append(d2)
     return "".join(map(str, n))
-
-# Gera 100 CPFs válidos para teste
-for _ in range(100):
-    print(gera_cpf())
+    #Gera 100 CPFs válidos para teste
+        for _ in range(100):
+        print(gera_cpf())
 
 
